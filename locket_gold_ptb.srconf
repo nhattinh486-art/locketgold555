@@ -7,25 +7,25 @@
       "type": "urlrewrite",
       "match": "^https?://api\\.locketcamera\\.com/v\\d+/entitlements",
       "action": "rewrite-response",
-      "target": "https://raw.githubusercontent.com/[USERNAME]/locketgold-crack/main/gold_entitlements.json"
+      "target": "https://raw.githubusercontent.com/nhattinh486-art/locketgold-crack/main/gold_entitlements.json"
     },
     {
       "type": "urlrewrite",
       "match": "^https?://api\\.locketcamera\\.com/v\\d+/video/config",
       "action": "rewrite-response",
-      "target": "https://raw.githubusercontent.com/[USERNAME]/locketgold-crack/main/video_60s_config.json"
+      "target": "https://raw.githubusercontent.com/nhattinh486-art/locketgold-crack/main/video_60s_config.json"
     },
     {
       "type": "urlrewrite",
       "match": "^https?://api\\.locketcamera\\.com/v\\d+/ai/features",
       "action": "rewrite-response",
-      "target": "https://raw.githubusercontent.com/[USERNAME]/locketgold-crack/main/ai_features_ptb.json"
+      "target": "https://raw.githubusercontent.com/nhattinh486-art/locketgold-crack/main/ai_features_ptb.json"
     },
     {
       "type": "urlrewrite",
       "match": "^https?://api\\.locketcamera\\.com/v\\d+/subscription/verify",
       "action": "rewrite-response",
-      "target": "https://raw.githubusercontent.com/[USERNAME]/locketgold-crack/main/subscription_gold_ptb.json"
+      "target": "https://raw.githubusercontent.com/nhattinh486-art/locketgold-crack/main/subscription_gold_ptb.json"
     },
     {
       "type": "urlrewrite",
